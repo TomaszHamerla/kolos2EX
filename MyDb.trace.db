@@ -1,0 +1,4 @@
+2024-06-01 14:03:31.968807+02:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "select - [*]from clients"
+Syntax error in SQL statement "select - [*]from clients"; SQL statement:
+select - from clients [42000-224]
